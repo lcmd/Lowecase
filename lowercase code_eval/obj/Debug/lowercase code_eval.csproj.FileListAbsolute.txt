@@ -1,0 +1,5 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\lowercase code_eval\lowercase code_eval\bin\Debug\lowercase code_eval.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\lowercase code_eval\lowercase code_eval\bin\Debug\lowercase code_eval.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\lowercase code_eval\lowercase code_eval\bin\Debug\lowercase code_eval.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\lowercase code_eval\lowercase code_eval\obj\Debug\lowercase code_eval.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\lowercase code_eval\lowercase code_eval\obj\Debug\lowercase code_eval.pdb
